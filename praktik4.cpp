@@ -13,3 +13,6 @@ void inputData()
     cin >> tinggi;
 
 }//selesaiinputdata
+
+float hitungBMI (float a, float b)
+{
