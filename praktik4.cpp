@@ -34,3 +34,10 @@ string statusBMI (float bmi)
         return "Obesitas";
         
 }
+
+int main()
+{//mulaiinputdata
+    inputData();
+
+    float bmi = hitungBMI (berat, tinggi);
+    cout << "--- Hasil --- ";
