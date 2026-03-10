@@ -11,3 +11,5 @@ void inputData()
     cin >> berat;
     cout << "Masukkan Tinggi Badan (m): ";
     cin >> tinggi;
+
+}//selesaiinputdata
