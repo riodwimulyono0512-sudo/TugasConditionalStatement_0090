@@ -16,3 +16,7 @@ void inputData()
 
 float hitungBMI (float a, float b)
 {
+
+     return a / (b * b);
+
+}
